@@ -1,0 +1,5 @@
+1.	Desde ÁREA DE RECURSOS HUMANOS hasta ACREDITACIÓN DE PERSONAL:
+En lugar de 2 flechas, sale una sola: "convenciones anteriores".
+
+2.	Desde ÁREA DE PERSONAL hasta ACREDITACIÓN DE PERSONAL:
+En el único flujo, en lugar de "empleado" va "situación laboral".

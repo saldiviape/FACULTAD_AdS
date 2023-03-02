@@ -1,0 +1,8 @@
+1.	Desde ALUMNO hasta TRAMITACIÓN DE TÍTULOS:
+El flujo de "solicitud de excepción de correlativas" no va.
+
+2.	Desde un "?" hasta TRAMITACIÓN DE TÍTULOS:
+Se crea un flujo que es "plan".
+
+2.	Desde otro "?" hasta TRAMITACIÓN DE TÍTULOS:
+Se crea otro flujo que es "correlativ.".
